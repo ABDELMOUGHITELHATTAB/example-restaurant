@@ -6,7 +6,7 @@ const PRODUCTS = [
       description: "Poulet mariné, frites, sauce fromagère",
       price: 39,
       image:
-        "assets/TACOS-2.jpg",
+        "TACOS-2.jpg",
       details:
         "Tortilla garnie généreusement, préparée à la commande avec frites et sauce.",
       ingredients: "Poulet mariné, frites, sauce fromagère",
@@ -20,7 +20,7 @@ const PRODUCTS = [
       description: "Viande hachée, cheddar, sauce maison",
       price: 42,
       image:
-        "assets/TACOS-1.jpg",
+        "TACOS-1.jpg",
       details:
         "Tortilla garnie généreusement, préparée à la commande avec frites et sauce.",
       ingredients: "Viande hachée, cheddar, sauce maison",
@@ -34,7 +34,7 @@ const PRODUCTS = [
       description: "Poulet, viande hachée et fromage",
       price: 49,
       image:
-        "assets/TACOS-1.jpg",
+        "TACOS-1.jpg",
       details:
         "Tortilla garnie généreusement, préparée à la commande avec frites et sauce.",
       ingredients: "Poulet, viande hachée et fromage",
@@ -48,7 +48,7 @@ const PRODUCTS = [
       description: "Cordon bleu, cheddar et sauce fromagère",
       price: 45,
       image:
-        "assets/TACOS-3.jpg",
+        "TACOS-3.jpg",
       details:
         "Tortilla garnie généreusement, préparée à la commande avec frites et sauce.",
       ingredients: "Cordon bleu, cheddar et sauce fromagère",
@@ -62,7 +62,7 @@ const PRODUCTS = [
       description: "Nuggets croustillants et sauce au choix",
       price: 39,
       image:
-        "assets/TACOS-3.jpg",
+        "TACOS-3.jpg",
       details:
         "Tortilla garnie généreusement, préparée à la commande avec frites et sauce.",
       ingredients: "Nuggets croustillants et sauce au choix",
@@ -216,7 +216,7 @@ const PRODUCTS = [
       description: "Poulet grillé, crudités et sauce",
       price: 32,
       image:
-        "assets/SANDWICHE-3.jpg",
+        "SANDWICHE-3.jpg",
       details: "Pain garni de viande ou de poisson, crudités et sauce.",
       ingredients: "Poulet grillé, crudités et sauce",
       allergens:
@@ -229,7 +229,7 @@ const PRODUCTS = [
       description: "Poulet et viande hachée",
       price: 39,
       image:
-        "assets/SANDWICHE-1.jpg",
+        "SANDWICHE-1.jpg",
       details: "Pain garni de viande ou de poisson, crudités et sauce.",
       ingredients: "Poulet et viande hachée",
       allergens:
@@ -242,7 +242,7 @@ const PRODUCTS = [
       description: "Thon, maïs, salade et olives",
       price: 30,
       image:
-        "assets/SANDWICHE-3.jpg",
+        "SANDWICHE-3.jpg",
       details: "Pain garni de viande ou de poisson, crudités et sauce.",
       ingredients: "Thon, maïs, salade et olives",
       allergens:
@@ -255,7 +255,7 @@ const PRODUCTS = [
       description: "Steak, fromage et oignons",
       price: 38,
       image:
-        "assets/SANDWICHE-2.jpg",
+        "SANDWICHE-2.jpg",
       details: "Pain garni de viande ou de poisson, crudités et sauce.",
       ingredients: "Steak, fromage et oignons",
       allergens:
@@ -268,7 +268,7 @@ const PRODUCTS = [
       description: "Poulet, mozzarella et sauce pesto",
       price: 32,
       image:
-        "assets/SANDWICHE-1.jpg",
+        "SANDWICHE-1.jpg",
       details: "Pain pressé et toasté, fromage fondant et garniture.",
       ingredients: "Poulet, mozzarella et sauce pesto",
       allergens:
@@ -281,7 +281,7 @@ const PRODUCTS = [
       description: "Mélange de trois fromages",
       price: 35,
       image:
-        "assets/PANINI-3.jpg",
+        "PANINI-3.jpg",
       details: "Pain pressé et toasté, fromage fondant et garniture.",
       ingredients: "Mélange de trois fromages",
       allergens:
@@ -294,7 +294,7 @@ const PRODUCTS = [
       description: "Viande hachée, cheddar",
       price: 36,
       image:
-        "assets/PANINI-1.jpg",
+        "PANINI-1.jpg",
       details: "Pain pressé et toasté, fromage fondant et garniture.",
       ingredients: "Viande hachée, cheddar",
       allergens:
@@ -307,7 +307,7 @@ const PRODUCTS = [
       description: "Thon, mozzarella et olives",
       price: 32,
       image:
-        "assets/PANINI-1.jpg",
+        "PANINI-1.jpg",
       details: "Pain pressé et toasté, fromage fondant et garniture.",
       ingredients: "Thon, mozzarella et olives",
       allergens:
@@ -320,7 +320,7 @@ const PRODUCTS = [
       description: "Sauce tomate et viande hachée",
       price: 45,
       image:
-        "assets/PATES-3.jpg",
+        "PATES-3.jpg",
       details: "Pâtes préparées à la commande avec une sauce gourmande.",
       ingredients: "Sauce tomate et viande hachée",
       allergens:
@@ -333,7 +333,7 @@ const PRODUCTS = [
       description: "Poulet, crème et parmesan",
       price: 49,
       image:
-        "assets/PATES-1.jpg",
+        "PATES-1.jpg",
       details: "Pâtes préparées à la commande avec une sauce gourmande.",
       ingredients: "Poulet, crème et parmesan",
       allergens:
@@ -346,7 +346,7 @@ const PRODUCTS = [
       description: "Sauce crémeuse aux fromages",
       price: 52,
       image:
-        "assets/PATES-2.jpg",
+        "PATES-2.jpg",
       details: "Pâtes préparées à la commande avec une sauce gourmande.",
       ingredients: "Sauce crémeuse aux fromages",
       allergens:
@@ -359,7 +359,7 @@ const PRODUCTS = [
       description: "Crevettes et sauce à l'ail",
       price: 59,
       image:
-        "assets/PATES-4.jpg",
+        "PATES-4.jpg",
       details: "Pâtes préparées à la commande avec une sauce gourmande.",
       ingredients: "Crevettes et sauce à l'ail",
       allergens:
@@ -541,7 +541,7 @@ const PRODUCTS = [
       description: "Boisson fraîche au choix",
       price: 10,
       image:
-        "assets/SODA.jpg",
+        "SODA.jpg",
       details: "Boisson servie fraîche.",
       ingredients: "Boisson fraîche au choix",
       allergens:
@@ -578,7 +578,7 @@ const PRODUCTS = [
     {
       name: "Tacos",
       image:
-        "assets/TACOS-1.jpg",
+        "TACOS-1.jpg",
       count: 5,
     },
     {
@@ -596,13 +596,13 @@ const PRODUCTS = [
     {
       name: "Sandwichs",
       image:
-        "assets/SANDWICHE-1.jpg",
+        "SANDWICHE-1.jpg",
       count: 4,
     },
     {
       name: "Panini",
       image:
-        "assets/PANINI-2.jpg",
+        "PANINI-2.jpg",
       count: 4,
     },
     {
@@ -636,7 +636,7 @@ const PRODUCTS = [
       count: 4,
     },
   ];
-const WHATSAPP_NUMBER = "212600000000"; // Remplacer par le numéro réel sans + ni espaces.
+const WHATSAPP_NUMBER = "212604148087"; // Remplacer par le numéro réel sans + ni espaces.
 const money = (n) => `${n} DH`;
 const catUrl = (c) => `categorie.html?cat=${encodeURIComponent(c)}`;
 const prodUrl = (p) => `produit.html?id=${p.id}`;
